@@ -11,12 +11,15 @@ Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previa
 
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
+- [Requisitos](#requisitos)
 - [Como Executar](#como-executar)
 - [Autor](#autor)
 
 ---
 
-## ⚙️ Funcionalidades
+<a id="funcionalidades"></a>
+
+## 🧩 Funcionalidades
 
 | Comando | Função             | Descrição                                                                 |
 | ------- | ------------------ | ------------------------------------------------------------------------- |
@@ -31,6 +34,8 @@ Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previa
 | `q`     | Sair               | Encerra o programa.                                                       |
 
 ---
+
+<a id="estrutura-do-projeto"></a>
 
 ## 🏗 Estrutura do Projeto
 
@@ -49,6 +54,17 @@ O sistema é modularizado em funções:
 - `main()` – função principal, gerencia o fluxo e menu
 
 ---
+
+<a id="requisitos"></a>
+
+## ⚙️ Requisitos
+
+- Python 3.10 ou superior
+- Nenhuma dependência externa (somente módulos da biblioteca padrão)
+
+---
+
+<a id="como-executar"></a>
 
 ## 🚀 Como Executar
 
@@ -70,6 +86,10 @@ cd sistema-bancario
 ```bash
 python desafio_fundamentos.py
 ```
+
+---
+
+<a id="autor"></a>
 
 ## 👤 Autor
 
