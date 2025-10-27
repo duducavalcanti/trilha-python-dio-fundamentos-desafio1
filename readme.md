@@ -12,8 +12,6 @@ Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previa
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Executar](#como-executar)
-- [Observações](#observações)
-- [Exemplo de Menu](#exemplo-de-menu)
 - [Autor](#autor)
 
 ---
